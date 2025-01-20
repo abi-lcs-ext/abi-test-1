@@ -1,0 +1,1 @@
+export const data: number[] = [37,44,58,41,87];
