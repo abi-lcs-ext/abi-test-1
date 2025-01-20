@@ -17,6 +17,10 @@ A função deve retornar um número que representa a média dos índices dos val
 
     2. A função deve procurar os índices dos valores de queries que existem em data. E no final, retornar a média desses índices.
 
+    3. Se um valor de queries não existir em data, ele não deve ser considerado no cálculo da média.
+
+    4. A função deve ser executada em menos de 2 segundos.
+
 ## Exemplo
 
 Entrada
